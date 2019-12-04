@@ -20,3 +20,6 @@ https://en.wikipedia.org/wiki/Temporal_information_retrieval
 ### Temporal Information Retrieval 2016
 https://dl.acm.org/citation.cfm?id=2914805
 
+
+### Julien Tourille
+https://scholar.google.fr/citations?user=99ywuNMAAAAJ&hl=en
