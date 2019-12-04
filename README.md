@@ -6,7 +6,7 @@ https://nlpprogress.com/english/temporal_processing.html
 https://paperswithcode.com/paper/learning-dynamic-author-representations-with
 https://github.com/edouardelasalles/dar
 
-### Proceedings of the 9th International Workshop on Health Text Mining and Information Analysis (LOUHI 2018), pages 55–64Brussels, Belgium, October 31, 2018.c©2018 Association for Computational Linguistics55Investigating the Challenges of Temporal Relation Extraction fromClinical Text
+### Investigating the Challenges of Temporal Relation Extraction fromClinical Text
 https://www.aclweb.org/anthology/W18-5607.pdf
 
 ### Temporal Information Extraction by Predicting Relative Time-lines
@@ -23,3 +23,6 @@ https://dl.acm.org/citation.cfm?id=2914805
 
 ### Julien Tourille
 https://scholar.google.fr/citations?user=99ywuNMAAAAJ&hl=en
+
+### Cours sur Temporal information extraction
+https://resources.mpi-inf.mpg.de/departments/d5/teaching/ss16/atir16/slides/2016-atir-ch07-temporal-information-extraction-handout.pdf
