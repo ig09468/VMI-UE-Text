@@ -23,6 +23,7 @@ https://dl.acm.org/citation.cfm?id=2914805
 
 ### Julien Tourille
 https://scholar.google.fr/citations?user=99ywuNMAAAAJ&hl=en
+https://tel.archives-ouvertes.fr/tel-01997223/document
 
 ### Cours sur Temporal information extraction
 https://resources.mpi-inf.mpg.de/departments/d5/teaching/ss16/atir16/slides/2016-atir-ch07-temporal-information-extraction-handout.pdf
