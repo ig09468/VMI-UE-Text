@@ -1,4 +1,10 @@
 # VMI-UE-Text
+
+## Description du projet :
+
+Ce projet universitaire est lié à la matière du traitement du langage naturel et l’étude de la sémantique.
+L’objectif était de traité des phrases en Français et d’extraire la temporalité de la phrase. Et obtenir en sortie la phrase décortiqué de la façon suivante : Sujet | Action | Temporalité. Ex : J’ai mangé une pomme hier -> J’ | mangé une pomme | hier
+
 ### qqs papiers et databases
 https://nlpprogress.com/english/temporal_processing.html
 
