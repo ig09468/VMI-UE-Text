@@ -5,6 +5,9 @@
 Ce projet universitaire est lié à la matière du traitement du langage naturel et l’étude de la sémantique.
 L’objectif était de traité des phrases en Français et d’extraire la temporalité de la phrase. Et obtenir en sortie la phrase décortiqué de la façon suivante : Sujet | Action | Temporalité. Ex : J’ai mangé une pomme hier -> J’ | mangé une pomme | hier
 
+## Rapport
+> [lien](https://drive.google.com/file/d/1jmu_ngdN32t62jsKpQ_sb_AqL_0Aw5xH/view?usp=sharing)
+
 ## Papiers étudiers
 
 > qqs papiers et databases
@@ -41,5 +44,4 @@ https://spacy.io/usage
 > API SUTime
 https://github.com/FraBle/python-sutime
 
-## Rapport
-> [lien](https://drive.google.com/file/d/1jmu_ngdN32t62jsKpQ_sb_AqL_0Aw5xH/view?usp=sharing)
+
